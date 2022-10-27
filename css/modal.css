@@ -1,0 +1,12 @@
+
+#contenedor {
+  /* position: fixed; */
+  background-color: #d61b1b;
+  justify-content: center;
+  display: flex;
+}
+#texto {
+  /* position: fixed; */
+  background-color: #403b80;
+
+}
